@@ -1,9 +1,16 @@
 
 # Rust Mini Projects
 
-Wanted to learn some rust, here are some mini projects
+Wanted to learn some rust, here are some mini projects.
 
 
+## To Run
+
+Please first install Rust, then do cargo run inside the directory.
+
+```bash
+cargo run
+```
 
 
 ## Projects
